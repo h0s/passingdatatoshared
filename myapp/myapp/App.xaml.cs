@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using myapp;
 using Xamarin.Forms;
 
 namespace myapp
 {
+
 	public partial class App : Application
 	{
 		public App ()

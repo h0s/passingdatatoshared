@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using myapp;
 using Xamarin.Forms;
-[assembly: Xamarin.Forms.Dependency(typeof(IGetSmth))]
 
 namespace myapp
 {
